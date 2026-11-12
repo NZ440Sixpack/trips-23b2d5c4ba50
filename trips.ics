@@ -8,8 +8,8 @@ REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 BEGIN:VEVENT
 UID:cz3flz-av563@craig-trips
-DTSTAMP:20261112T045349Z
-LAST-MODIFIED:20261112T045349Z
+DTSTAMP:20261112T051152Z
+LAST-MODIFIED:20261112T051152Z
 DTSTART:20261028T211500Z
 DTEND:20261029T025000Z
 SUMMARY:AV563 SFO to SAL
@@ -23,8 +23,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cz3flz-av627@craig-trips
-DTSTAMP:20261112T045349Z
-LAST-MODIFIED:20261112T045349Z
+DTSTAMP:20261112T051152Z
+LAST-MODIFIED:20261112T051152Z
 DTSTART:20261029T042500Z
 DTEND:20261029T054000Z
 SUMMARY:AV627 SAL to SJO
@@ -38,8 +38,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cz3flz-av610@craig-trips
-DTSTAMP:20261112T045349Z
-LAST-MODIFIED:20261112T045349Z
+DTSTAMP:20261112T051152Z
+LAST-MODIFIED:20261112T051152Z
 DTSTART:20261104T211000Z
 DTEND:20261104T223000Z
 SUMMARY:AV610 SJO to SAL
@@ -54,8 +54,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cz3flz-av560@craig-trips
-DTSTAMP:20261112T045349Z
-LAST-MODIFIED:20261112T045349Z
+DTSTAMP:20261112T051152Z
+LAST-MODIFIED:20261112T051152Z
 DTSTART:20261104T233000Z
 DTEND:20261105T054000Z
 SUMMARY:AV560 SAL to SFO
@@ -69,8 +69,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:nzxmas-nz7@craig-trips
-DTSTAMP:20261112T045349Z
-LAST-MODIFIED:20261112T045349Z
+DTSTAMP:20261112T051152Z
+LAST-MODIFIED:20261112T051152Z
 DTSTART:20261220T035000Z
 DTEND:20261220T164500Z
 SUMMARY:NZ7 SFO to AKL
@@ -85,8 +85,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:nzxmas-nz613@craig-trips
-DTSTAMP:20261112T045349Z
-LAST-MODIFIED:20261112T045349Z
+DTSTAMP:20261112T051152Z
+LAST-MODIFIED:20261112T051152Z
 DTSTART:20261220T185500Z
 DTEND:20261220T205000Z
 SUMMARY:NZ613 AKL to ZQN
@@ -100,8 +100,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:nzxmas-nz8-return@craig-trips
-DTSTAMP:20261112T045349Z
-LAST-MODIFIED:20261112T045349Z
+DTSTAMP:20261112T051152Z
+LAST-MODIFIED:20261112T051152Z
 DTSTART:20270107T210000Z
 DTEND:20270107T213000Z
 SUMMARY:NZ8 AKL to SFO (arrive SFO 1:00 PM)
@@ -116,8 +116,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:nzfeb-nz7@craig-trips
-DTSTAMP:20261112T045349Z
-LAST-MODIFIED:20261112T045349Z
+DTSTAMP:20261112T051152Z
+LAST-MODIFIED:20261112T051152Z
 DTSTART:20270209T035000Z
 DTEND:20270209T164500Z
 SUMMARY:NZ7 SFO to AKL
@@ -133,8 +133,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:nzfeb-nz613@craig-trips
-DTSTAMP:20261112T045349Z
-LAST-MODIFIED:20261112T045349Z
+DTSTAMP:20261112T051152Z
+LAST-MODIFIED:20261112T051152Z
 DTSTART:20270209T185500Z
 DTEND:20270209T205000Z
 SUMMARY:NZ613 AKL to ZQN
@@ -149,8 +149,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:nzfeb-nz634@craig-trips
-DTSTAMP:20261112T045349Z
-LAST-MODIFIED:20261112T045349Z
+DTSTAMP:20261112T051152Z
+LAST-MODIFIED:20261112T051152Z
 DTSTART:20270219T020500Z
 DTEND:20270219T035500Z
 SUMMARY:NZ634 ZQN to AKL
@@ -165,8 +165,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:nzfeb-nz8@craig-trips
-DTSTAMP:20261112T045349Z
-LAST-MODIFIED:20261112T045349Z
+DTSTAMP:20261112T051152Z
+LAST-MODIFIED:20261112T051152Z
 DTSTART:20270219T065500Z
 DTEND:20270219T190500Z
 SUMMARY:NZ8 AKL to SFO
@@ -181,8 +181,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:xn43bi-kl606@craig-trips
-DTSTAMP:20261112T045349Z
-LAST-MODIFIED:20261112T045349Z
+DTSTAMP:20261112T051152Z
+LAST-MODIFIED:20261112T051152Z
 DTSTART:20270108T215000Z
 DTEND:20270109T081000Z
 SUMMARY:KL606 SFO to AMS
@@ -203,8 +203,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:xn43bi-kl565@craig-trips
-DTSTAMP:20261112T045349Z
-LAST-MODIFIED:20261112T045349Z
+DTSTAMP:20261112T051152Z
+LAST-MODIFIED:20261112T051152Z
 DTSTART:20270109T103500Z
 DTEND:20270109T190000Z
 SUMMARY:KL565 AMS to NBO
@@ -224,8 +224,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:xn43bi-kl566@craig-trips
-DTSTAMP:20261112T045349Z
-LAST-MODIFIED:20261112T045349Z
+DTSTAMP:20261112T051152Z
+LAST-MODIFIED:20261112T051152Z
 DTSTART:20270117T205900Z
 DTEND:20270118T061000Z
 SUMMARY:KL566 NBO to AMS
@@ -246,8 +246,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:xn43bi-kl605@craig-trips
-DTSTAMP:20261112T045349Z
-LAST-MODIFIED:20261112T045349Z
+DTSTAMP:20261112T051152Z
+LAST-MODIFIED:20261112T051152Z
 DTSTART:20270118T085000Z
 DTEND:20270118T194500Z
 SUMMARY:KL605 AMS to SFO
@@ -267,8 +267,83 @@ TRIGGER:-PT3H
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:ke-bush-wil-sosian@craig-trips
+DTSTAMP:20261112T051152Z
+LAST-MODIFIED:20261112T051152Z
+DTSTART:20270111T103000Z
+DTEND:20270111T115000Z
+SUMMARY:Safarilink 025 Wilson to Loisaba
+LOCATION:Wilson Airport\, Nairobi
+DESCRIPTION:Safarilink res 4B2330. Karen Gables to Wilson about 30 min\; p
+ ickup reconfirmed the evening before. Sosian Lodge meets the flight\, abo
+ ut 50 min drive. 15 kg (33 lb) per person incl. hand luggage\, soft bags 
+ only\, about 70x35x30 cm. Wilderness booking no. 1126540\; ops Maria Toug
+ h +44 127 325 7012. Travelers: Craig & Samantha Elliott. Travel insurance
+ : Seven Corners Trip Protection Choice (via Squaremouth)\, policy 2TPC26-
+ CA-105936\, Craig & Samantha\, Nov 12 2026-Jan 18 2027\; 24-hr assistance
+  800-335-0611 (call collect from outside USA)\; Squaremouth 1-800-240-036
+ 9. AMREF Flying Doctors Maisha Bronze evacuation cover (Nov 13 2026-Nov 1
+ 2 2027): Craig 2000111561\, Samantha 2000111565\; 24/7 emergency +254 20 
+ 699 2222 / +254 730 811811\, emergency@flydoc.org.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Safarilink 025 Wilson to Loisaba
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ke-bush-laikipia-mara@craig-trips
+DTSTAMP:20261112T051152Z
+LAST-MODIFIED:20261112T051152Z
+DTSTART:20270114T060500Z
+DTEND:20270114T080000Z
+SUMMARY:Safarilink 031 Loisaba to Mara North
+LOCATION:Loisaba Airstrip\, Laikipia
+DESCRIPTION:Safarilink res 4B2330. Offbeat Mara Camp meets the flight\, ab
+ out 1 hr to camp. 15 kg (33 lb) per person incl. hand luggage\, soft bags
+  only\, about 70x35x30 cm. Wilderness booking no. 1126540\; ops Maria Tou
+ gh +44 127 325 7012. Travelers: Craig & Samantha Elliott. Travel insuranc
+ e: Seven Corners Trip Protection Choice (via Squaremouth)\, policy 2TPC26
+ -CA-105936\, Craig & Samantha\, Nov 12 2026-Jan 18 2027\; 24-hr assistanc
+ e 800-335-0611 (call collect from outside USA)\; Squaremouth 1-800-240-03
+ 69. AMREF Flying Doctors Maisha Bronze evacuation cover (Nov 13 2026-Nov 
+ 12 2027): Craig 2000111561\, Samantha 2000111565\; 24/7 emergency +254 20
+  699 2222 / +254 730 811811\, emergency@flydoc.org.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Safarilink 031 Loisaba to Mara North
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ke-bush-mara-wil@craig-trips
+DTSTAMP:20261112T051152Z
+LAST-MODIFIED:20261112T051152Z
+DTSTART:20270117T074500Z
+DTEND:20270117T090000Z
+SUMMARY:Governors Aviation Mara North to Wilson
+LOCATION:Mara North airstrip
+DESCRIPTION:Governors Aviation\, no reservation code shown on the Wilderne
+ ss itinerary. Then rest at Karen Gables (stored suitcases)\; later transf
+ er/day room still unconfirmed\, contact Maria Tough. Then JKIA for KL566 
+ 23:59. 15 kg (33 lb) per person incl. hand luggage\, soft bags only\, abo
+ ut 70x35x30 cm. Wilderness booking no. 1126540\; ops Maria Tough +44 127 
+ 325 7012. Travelers: Craig & Samantha Elliott. Travel insurance: Seven Co
+ rners Trip Protection Choice (via Squaremouth)\, policy 2TPC26-CA-105936\
+ , Craig & Samantha\, Nov 12 2026-Jan 18 2027\; 24-hr assistance 800-335-0
+ 611 (call collect from outside USA)\; Squaremouth 1-800-240-0369. AMREF F
+ lying Doctors Maisha Bronze evacuation cover (Nov 13 2026-Nov 12 2027): C
+ raig 2000111561\, Samantha 2000111565\; 24/7 emergency +254 20 699 2222 /
+  +254 730 811811\, emergency@flydoc.org.
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Governors Aviation Mara North to Wilson
+TRIGGER:-PT3H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:cr-pezvela@craig-trips
-DTSTAMP:20261112T045349Z
+DTSTAMP:20261112T051152Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261102
 SUMMARY:Marina Pez Vela Villas\, Quepos (confirmation pending)
@@ -279,51 +354,37 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ke-crowneplaza@craig-trips
-DTSTAMP:20261112T045349Z
+DTSTAMP:20261112T051152Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 SUMMARY:Hotel: Crowne Plaza Nairobi Airport
 LOCATION:First Freight Lane\, inside JKIA\, Nairobi
-DESCRIPTION:Kenya trip (KLM XN43BI). Hotel conf # not on file\; Wilderness
-  safari package booking no. 1126540. Check in Sat Jan 9 after ~22:00 land
- ing\, out Sun Jan 10. Front desk +254-719-017000\; shuttle +254-797-10626
- 5. Standard\, B&B. Travelers: Craig & Samantha Elliott. Travel insurance:
-  Seven Corners Trip Protection Choice (via Squaremouth)\, policy 2TPC26-C
- A-105936\, Craig & Samantha\, Nov 12 2026-Jan 18 2027\; 24-hr assistance 
- 800-335-0611 (call collect from outside USA)\; Squaremouth 1-800-240-0369
- . AMREF Flying Doctors Maisha Bronze evacuation cover (Nov 13 2026-Nov 12
-  2027): Craig 2000111561\, Samantha 2000111565\; 24/7 emergency +254 20 6
- 99 2222 / +254 730 811811\, emergency@flydoc.org.
+DESCRIPTION:Kenya trip (KLM XN43BI). No separate hotel conf #\; Wilderness
+  booking no. 1126540 (Shelley Phillips +44 204 572 6548\, Maria Tough +44
+  127 325 7012). Tradewinds meet-and-greet at JKIA\, about 8 min to hotel.
+  Check in Sat Jan 9 after ~22:00 landing\, out Sun Jan 10. Front desk +25
+ 4-719-017000\; shuttle +254-797-106265. Standard\, B&B. Travelers: Craig 
+ & Samantha Elliott. Travel insurance: Seven Corners Trip Protection Choic
+ e (via Squaremouth)\, policy 2TPC26-CA-105936\, Craig & Samantha\, Nov 12
+  2026-Jan 18 2027\; 24-hr assistance 800-335-0611 (call collect from outs
+ ide USA)\; Squaremouth 1-800-240-0369. AMREF Flying Doctors Maisha Bronze
+  evacuation cover (Nov 13 2026-Nov 12 2027): Craig 2000111561\, Samantha 
+ 2000111565\; 24/7 emergency +254 20 699 2222 / +254 730 811811\, emergenc
+ y@flydoc.org.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ke-karengables@craig-trips
-DTSTAMP:20261112T045349Z
+DTSTAMP:20261112T051152Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 SUMMARY:Hotel: Karen Gables
 LOCATION:No. 76D Mbagathi Ridge\, Karen\, Nairobi
-DESCRIPTION:Kenya trip (KLM XN43BI). Hotel conf # not on file\; Wilderness
-  safari package booking no. 1126540. 1 night. Hard suitcases stored here 
- Jan 10-17. Travelers: Craig & Samantha Elliott. Travel insurance: Seven C
- orners Trip Protection Choice (via Squaremouth)\, policy 2TPC26-CA-105936
- \, Craig & Samantha\, Nov 12 2026-Jan 18 2027\; 24-hr assistance 800-335-
- 0611 (call collect from outside USA)\; Squaremouth 1-800-240-0369. AMREF 
- Flying Doctors Maisha Bronze evacuation cover (Nov 13 2026-Nov 12 2027): 
- Craig 2000111561\, Samantha 2000111565\; 24/7 emergency +254 20 699 2222 
- / +254 730 811811\, emergency@flydoc.org.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ke-bush-wil-sosian@craig-trips
-DTSTAMP:20261112T045349Z
-DTSTART;VALUE=DATE:20270111
-DTEND;VALUE=DATE:20270112
-SUMMARY:Bush flight Wilson to Loisaba Airstrip (morning) - NOT YET TICKETED
-LOCATION:Wilson Airport\, Nairobi
-DESCRIPTION:NOT YET TICKETED (Safarilink or AirKenya). Conf # not on file\
- ; Wilderness safari package booking no. 1126540. 15 kg limit incl. hand l
- uggage\, soft bags only. Travelers: Craig & Samantha Elliott. Travel insu
+DESCRIPTION:Kenya trip (KLM XN43BI). No separate hotel conf #\; Wilderness
+  booking no. 1126540 (Shelley Phillips +44 204 572 6548\, Maria Tough +44
+  127 325 7012). 1 night\, B&B. Jan 10: private vehicle and driver from Cr
+ owne Plaza 10:00\, Karen Blixen Museum\, then Karen Gables. Hard suitcase
+ s stored here Jan 10-17. Travelers: Craig & Samantha Elliott. Travel insu
  rance: Seven Corners Trip Protection Choice (via Squaremouth)\, policy 2T
  PC26-CA-105936\, Craig & Samantha\, Nov 12 2026-Jan 18 2027\; 24-hr assis
  tance 800-335-0611 (call collect from outside USA)\; Squaremouth 1-800-24
@@ -334,76 +395,39 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ke-sosian@craig-trips
-DTSTAMP:20261112T045349Z
+DTSTAMP:20261112T051152Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270114
 SUMMARY:Hotel: Sosian Lodge\, Laikipia
 LOCATION:Laikipia\, Kenya
-DESCRIPTION:Kenya trip (KLM XN43BI). Lodge conf # not on file\; Wilderness
-  safari package booking no. 1126540. Full board\, 3 nights. Travelers: Cr
- aig & Samantha Elliott. Travel insurance: Seven Corners Trip Protection C
- hoice (via Squaremouth)\, policy 2TPC26-CA-105936\, Craig & Samantha\, No
- v 12 2026-Jan 18 2027\; 24-hr assistance 800-335-0611 (call collect from 
- outside USA)\; Squaremouth 1-800-240-0369. AMREF Flying Doctors Maisha Br
- onze evacuation cover (Nov 13 2026-Nov 12 2027): Craig 2000111561\, Saman
- tha 2000111565\; 24/7 emergency +254 20 699 2222 / +254 730 811811\, emer
- gency@flydoc.org.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ke-bush-laikipia-mara@craig-trips
-DTSTAMP:20261112T045349Z
-DTSTART;VALUE=DATE:20270114
-DTEND;VALUE=DATE:20270115
-SUMMARY:Bush flight Loisaba to Mara North (morning) - NOT YET TICKETED
-LOCATION:Loisaba Airstrip\, Laikipia
-DESCRIPTION:NOT YET TICKETED (Safarilink or AirKenya). Conf # not on file\
- ; Wilderness safari package booking no. 1126540. 15 kg limit incl. hand l
- uggage\, soft bags only. Travelers: Craig & Samantha Elliott. Travel insu
- rance: Seven Corners Trip Protection Choice (via Squaremouth)\, policy 2T
- PC26-CA-105936\, Craig & Samantha\, Nov 12 2026-Jan 18 2027\; 24-hr assis
- tance 800-335-0611 (call collect from outside USA)\; Squaremouth 1-800-24
- 0-0369. AMREF Flying Doctors Maisha Bronze evacuation cover (Nov 13 2026-
- Nov 12 2027): Craig 2000111561\, Samantha 2000111565\; 24/7 emergency +25
- 4 20 699 2222 / +254 730 811811\, emergency@flydoc.org.
+DESCRIPTION:Kenya trip (KLM XN43BI). No separate lodge conf #\; Wilderness
+  booking no. 1126540 (Maria Tough +44 127 325 7012). Full board\, 3 night
+ s. Travelers: Craig & Samantha Elliott. Travel insurance: Seven Corners T
+ rip Protection Choice (via Squaremouth)\, policy 2TPC26-CA-105936\, Craig
+  & Samantha\, Nov 12 2026-Jan 18 2027\; 24-hr assistance 800-335-0611 (ca
+ ll collect from outside USA)\; Squaremouth 1-800-240-0369. AMREF Flying D
+ octors Maisha Bronze evacuation cover (Nov 13 2026-Nov 12 2027): Craig 20
+ 00111561\, Samantha 2000111565\; 24/7 emergency +254 20 699 2222 / +254 7
+ 30 811811\, emergency@flydoc.org.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ke-offbeatndoto@craig-trips
-DTSTAMP:20261112T045349Z
+DTSTAMP:20261112T051152Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270117
 SUMMARY:Hotel: Offbeat Mara Camp\, Mara North Conservancy
 LOCATION:Offbeat Mara Camp\, Mara North Conservancy
-DESCRIPTION:Kenya trip (KLM XN43BI). Camp conf # not on file\; Wilderness 
- safari package booking no. 1126540. Check in Thu Jan 14\, out Sun Jan 17.
-  Full board\, private vehicle and guide. Travelers: Craig & Samantha Elli
- ott. Travel insurance: Seven Corners Trip Protection Choice (via Squaremo
- uth)\, policy 2TPC26-CA-105936\, Craig & Samantha\, Nov 12 2026-Jan 18 20
- 27\; 24-hr assistance 800-335-0611 (call collect from outside USA)\; Squa
- remouth 1-800-240-0369. AMREF Flying Doctors Maisha Bronze evacuation cov
- er (Nov 13 2026-Nov 12 2027): Craig 2000111561\, Samantha 2000111565\; 24
- /7 emergency +254 20 699 2222 / +254 730 811811\, emergency@flydoc.org.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:ke-bush-mara-wil@craig-trips
-DTSTAMP:20261112T045349Z
-DTSTART;VALUE=DATE:20270117
-DTEND;VALUE=DATE:20270118
-SUMMARY:Bush flight Mara North to Wilson\, then road to JKIA - NOT YET TIC
- KETED
-LOCATION:Mara North airstrip
-DESCRIPTION:NOT YET TICKETED (Safarilink or AirKenya). Conf # not on file\
- ; Wilderness safari package booking no. 1126540. 15 kg limit incl. hand l
- uggage\, soft bags only. Travelers: Craig & Samantha Elliott. Travel insu
- rance: Seven Corners Trip Protection Choice (via Squaremouth)\, policy 2T
- PC26-CA-105936\, Craig & Samantha\, Nov 12 2026-Jan 18 2027\; 24-hr assis
- tance 800-335-0611 (call collect from outside USA)\; Squaremouth 1-800-24
- 0-0369. AMREF Flying Doctors Maisha Bronze evacuation cover (Nov 13 2026-
- Nov 12 2027): Craig 2000111561\, Samantha 2000111565\; 24/7 emergency +25
- 4 20 699 2222 / +254 730 811811\, emergency@flydoc.org. Collect suitcases
-  at Karen Gables en route to JKIA for KL566 23:59.
+DESCRIPTION:Kenya trip (KLM XN43BI). No separate camp conf #\; Wilderness 
+ booking no. 1126540 (Maria Tough +44 127 325 7012). Check in Thu Jan 14\,
+  out Sun Jan 17. Full board\, private vehicle and guide. Travelers: Craig
+  & Samantha Elliott. Travel insurance: Seven Corners Trip Protection Choi
+ ce (via Squaremouth)\, policy 2TPC26-CA-105936\, Craig & Samantha\, Nov 1
+ 2 2026-Jan 18 2027\; 24-hr assistance 800-335-0611 (call collect from out
+ side USA)\; Squaremouth 1-800-240-0369. AMREF Flying Doctors Maisha Bronz
+ e evacuation cover (Nov 13 2026-Nov 12 2027): Craig 2000111561\, Samantha
+  2000111565\; 24/7 emergency +254 20 699 2222 / +254 730 811811\, emergen
+ cy@flydoc.org.
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
